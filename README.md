@@ -77,8 +77,15 @@ http://127.0.0.1:5000
 https://weather-app-xi-nine-11.vercel.app/
 
 ## 📸 Screenshot
-![Weather App](Screenshot(102).png)
-![Weather App](Screenshot(103).png)
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](home.png)
+
+### Weather Result
+
+![Weather Result](result.png)
 
 ## 👩‍💻 Author
 
